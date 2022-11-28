@@ -1,2 +1,2 @@
 # UnityIAR
-Integration Unity framework to IAR Embedded workbanch project
+Example of integration Unity framework to IAR Embedded Workbench project.
